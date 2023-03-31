@@ -13,9 +13,7 @@
 
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Acquiring+knowledge+everyday)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Kaustubh;Welcome+to+my+profile;Always+trying+to+learn+new+things)](https://git.io/typing-svg)
 
 ### 🔥 &nbsp; My Stats :
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" width="300"/></p>
+<p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
 
 <div id="badges">
     <p align="center">
